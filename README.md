@@ -1,13 +1,18 @@
 ### Data guy and developer
 <table>
 <tr>
+<th>Wakatime stats</th>
+<th>Github stats</th>
+</tr>
+
+<tr>
 <td>
 
-![tbeachill's github stats](https://github-readme-stats.vercel.app/api/wakatime?username=tbeachill&layout=compact&theme=github_dark)
+![tbeachill's github stats](https://github-readme-stats.vercel.app/api/wakatime?username=tbeachill&layout=compact&theme=github_dark&hide_title=true)
 </td>
 <td>
 
-![tbeachill's wakatime stats](https://github-readme-stats.vercel.app/api?username=tbeachill&theme=github_dark)
+![tbeachill's wakatime stats](https://github-readme-stats.vercel.app/api?username=tbeachill&theme=github_dark&hide_title=true)
 
 </td>
 </tr>
