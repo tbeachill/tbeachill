@@ -1,4 +1,3 @@
-### Data guy and developer
 <table>
 <tr>
 <th>Wakatime stats</th>
