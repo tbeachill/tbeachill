@@ -1,17 +1,17 @@
 <table>
 <tr>
-<th>Wakatime stats</th>
+<th>Wakatime stats (last year)</th>
 <th>Github stats</th>
 </tr>
 
 <tr>
 <td>
 
-![tbeachill's github stats](https://github-readme-stats.vercel.app/api/wakatime?username=tbeachill&layout=compact&theme=github_dark&hide_title=true)
+![tbeachill's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tbeachill&layout=compact&theme=github_dark&hide_title=true&langs_count=10)
 </td>
 <td>
 
-![tbeachill's wakatime stats](https://github-readme-stats.vercel.app/api?username=tbeachill&theme=github_dark&hide_title=true)
+![tbeachill's github stats](https://github-readme-stats.vercel.app/api?username=tbeachill&theme=github_dark&hide_title=true)
 
 </td>
 </tr>
