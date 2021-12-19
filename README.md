@@ -1,6 +1,6 @@
 <table>
 <tr>
-<th>Wakatime stats (last year)</th>
+<th>Wakatime stats (since Dec 2021)</th>
 <th>Github stats</th>
 </tr>
 
