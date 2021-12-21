@@ -1,35 +1,18 @@
-<table>
-<tr>
-<th>Wakatime stats (since Dec 2021)</th>
-<th>Github stats</th>
-</tr>
-
-<tr>
-<td>
-
-![tbeachill's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tbeachill&layout=compact&theme=github_dark&hide_title=true&langs_count=10)
-</td>
-<td>
-
-![tbeachill's github stats](https://github-readme-stats.vercel.app/api?username=tbeachill&theme=github_dark&hide_title=true)
-
-</td>
-</tr>
-</table>
+|Wakatime stats (since Dec 2021) | Github stats|
+|---|---|
+|![tbeachill's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tbeachill&layout=compact&theme=github_dark&hide_title=true&langs_count=10)|![tbeachill's github stats](https://github-readme-stats.vercel.app/api?username=tbeachill&theme=github_dark&hide_title=true)|
 
 ### Currently working on:
  - Machine learning in Python
- - An obstacle course for the metaverse Roblox
+ - A first-person shooter for the metaverse Roblox
  - Learning C#
- - Learning JavaScript
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Technologies, Libraries, and Platforms
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
@@ -39,4 +22,3 @@
 ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
