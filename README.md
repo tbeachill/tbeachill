@@ -1,18 +1,24 @@
 |Wakatime stats (since Dec 2021) | Github stats|
 |---|---|
-|![tbeachill's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tbeachill&layout=compact&theme=github_dark&hide_title=true&langs_count=10)|![tbeachill's github stats](https://github-readme-stats.vercel.app/api?username=tbeachill&theme=github_dark&hide_title=true)|
+|![tbeachill's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tbeachill&layout=compact&theme=github_dark&hide_title=true&langs_count=10&hide=other)|![tbeachill's github stats](https://github-readme-stats.vercel.app/api?username=tbeachill&theme=github_dark&hide_title=true)|
 
 ### Currently working on:
- - Machine learning in Python
+ - Participating in CS50 2022
  - A first-person shooter for the metaverse Roblox
  - Learning C#
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+<!--
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![SAS](https://github.com/tbeachill/tbeachill/blob/main/images/SASBadge.png?raw=true)
+-->
 
 ### Technologies, Libraries, and Platforms
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
@@ -22,3 +28,7 @@
 ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+<!-- ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
+# ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+-->
