@@ -1,4 +1,4 @@
-|Wakatime stats (since Dec 2021) | Github stats|
+|Wakatime stats (2022) | Github stats|
 |---|---|
 |![tbeachill's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tbeachill&layout=compact&theme=github_dark&hide_title=true&langs_count=8&hide=other)|![tbeachill's github stats](https://github-readme-stats.vercel.app/api?username=tbeachill&theme=github_dark&hide_title=true&count_private=true)|
 
