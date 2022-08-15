@@ -3,15 +3,15 @@
 |![tbeachill's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tbeachill&layout=compact&theme=github_dark&hide_title=true&langs_count=8&hide=other)|![tbeachill's github stats](https://github-readme-stats.vercel.app/api?username=tbeachill&theme=github_dark&hide_title=true&count_private=true)|
 
 ### Currently working on:
- - Learning the Unity game engine
- - Learning Rust
+ - Machine learning in Python using Scikit-Learn, Keras and TensorFlow
+ - Solving algorithmic problems with leetcode
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 <!--
