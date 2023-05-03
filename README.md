@@ -1,6 +1,6 @@
 |Wakatime stats (last year) | Github stats|
 |---|---|
-|![tbeachill's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tbeachill&layout=compact&theme=github_dark&hide_title=true&langs_count=8&hide=other)|![tbeachill's github stats](https://github-readme-stats.vercel.app/api?username=tbeachill&theme=github_dark&hide_title=true&count_private=true)|
+|![tbeachill's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tbeachill&layout=compact&theme=github_dark&hide_title=true&langs_count=8&hide=other&range=last_year)|![tbeachill's github stats](https://github-readme-stats.vercel.app/api?username=tbeachill&theme=github_dark&hide_title=true&count_private=true)|
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
