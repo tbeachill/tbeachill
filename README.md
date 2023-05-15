@@ -14,7 +14,6 @@
 ![Plotly Dash](https://img.shields.io/badge/-Plotly%20Dash-3F4F75?logo=plotly&logoColor=white&style=flat-square)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat-square)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square)
 ![scikit-learn](https://img.shields.io/badge/-scikit%20learn-F7931E?logo=scikitlearn&logoColor=white&style=flat-square)
 
 #### Platforms and Software
@@ -28,6 +27,7 @@
 ![Windows Terminal](https://img.shields.io/badge/-Windows%20Terminal-4D4D4D?logo=windowsterminal&logoColor=white&style=flat-square)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=1F2022&style=flat-square)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white&style=flat-square)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![Espressif](https://img.shields.io/badge/-Espressif-E7352C?logo=espressif&logoColor=white&style=flat-square)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white&style=flat-square)
