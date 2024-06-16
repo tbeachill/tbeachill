@@ -29,6 +29,7 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-f1502f?logo=git&logoColor=white&style=flat-square)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?logo=raspberrypi&logoColor=white&style=flat-square)
+![Home Assistant](https://img.shields.io/badge/-Home%20Assistant-18BCF2?logo=homeassistant&logoColor=white&style=flat-square)
 
 #### Social
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white&style=flat-square)](https://leetcode.com/tbeachill/)
