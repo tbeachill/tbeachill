@@ -6,6 +6,7 @@
 #### Main Languages
 ![Python](https://img.shields.io/badge/-Python-4584B6?logo=python&logoColor=white&style=flat-square)
 ![Go](https://img.shields.io/badge/-Go-00ADD9?logo=go&logoColor=white&style=flat-square)
+![Powershell](https://img.shields.io/badge/-Powershell-00ADD9?logo=powershell&logoColor=white&style=flat-square)
 ![MySQL](https://img.shields.io/badge/-MySQL-00758f?logo=mysql&logoColor=white&style=flat-square)
 ![Typst](https://img.shields.io/badge/-typst-239dad?logo=typst&logoColor=white&style=flat-square)
 
@@ -18,18 +19,21 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-DE3412?logo=pytorch&logoColor=white&style=flat-square)
 
 #### Platforms and Software
-![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-005ba1?logo=microsoftazure&logoColor=white&style=flat-square)
-![Azure Functions](https://img.shields.io/badge/-Azure%20Functions-005ba1?logo=azurefunctions&logoColor=white&style=flat-square)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=white&style=flat-square)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-0098FF?logo=visualstudiocode&logoColor=white&style=flat-square)
 ![Github Copilot](https://img.shields.io/badge/-Github%20Copilot-4078c0?logo=githubcopilot&logoColor=white&style=flat-square)
 ![Github Actions](https://img.shields.io/badge/-Github%20Actions-4078c0?logo=githubactions&logoColor=white&style=flat-square)
 ![Windows Terminal](https://img.shields.io/badge/-Windows%20Terminal-4D4D4D?logo=windowsterminal&logoColor=white&style=flat-square)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=1F2022&style=flat-square)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white&style=flat-square)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-f1502f?logo=git&logoColor=white&style=flat-square)
+![Snyk](https://img.shields.io/badge/-Snyk-4C4A73?logo=snyk&logoColor=white&style=flat-square)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?logo=raspberrypi&logoColor=white&style=flat-square)
+![Pi-hole](https://img.shields.io/badge/-Pihole-96060C?logo=pihole&logoColor=white&style=flat-square)
 ![Home Assistant](https://img.shields.io/badge/-Home%20Assistant-18BCF2?logo=homeassistant&logoColor=white&style=flat-square)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square)
+![DuckDB](https://img.shields.io/badge/-DuckDB-FFF000?logo=duckdb&logoColor=black&style=flat-square)
 
 #### Social
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white&style=flat-square)](https://leetcode.com/tbeachill/)
