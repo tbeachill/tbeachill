@@ -7,6 +7,7 @@
 ![Python](https://img.shields.io/badge/-Python-4584B6?logo=python&logoColor=white&style=flat-square)
 ![Go](https://img.shields.io/badge/-Go-00ADD9?logo=go&logoColor=white&style=flat-square)
 ![Powershell](https://img.shields.io/badge/-Powershell-00ADD9?logo=powershell&logoColor=white&style=flat-square)
+![Bash](https://img.shields.io/badge/-Bash-293137?logo=gnubash&logoColor=white&style=flat-square)
 ![MySQL](https://img.shields.io/badge/-MySQL-00758f?logo=mysql&logoColor=white&style=flat-square)
 ![Typst](https://img.shields.io/badge/-typst-239dad?logo=typst&logoColor=white&style=flat-square)
 
@@ -20,7 +21,10 @@
 
 #### Platforms and Software
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
+![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?logo=proxmox&logoColor=white&style=flat-square)
+![TrueNAS](https://img.shields.io/badge/-TrueNAS-0095D5?logo=truenas&logoColor=white&style=flat-square)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=white&style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-1D63ED?logo=docker&logoColor=white&style=flat-square)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-0098FF?logo=visualstudiocode&logoColor=white&style=flat-square)
 ![Github Copilot](https://img.shields.io/badge/-Github%20Copilot-4078c0?logo=githubcopilot&logoColor=white&style=flat-square)
 ![Github Actions](https://img.shields.io/badge/-Github%20Actions-4078c0?logo=githubactions&logoColor=white&style=flat-square)
