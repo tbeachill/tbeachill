@@ -11,14 +11,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-00758f?logo=mysql&logoColor=white&style=flat-square)
 ![Typst](https://img.shields.io/badge/-typst-239dad?logo=typst&logoColor=white&style=flat-square)
 
-#### Libraries
-![Plotly](https://img.shields.io/badge/-Plotly-2a3f5f?logo=plotly&logoColor=white&style=flat-square)
-![Plotly Dash](https://img.shields.io/badge/-Plotly%20Dash-2a3f5f?logo=plotly&logoColor=white&style=flat-square)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square)
-![NumPy](https://img.shields.io/badge/-NumPy-4dabcf?logo=numpy&logoColor=white&style=flat-square)
-![SciPy](https://img.shields.io/badge/-SciPy-0054a6?logo=scipy&logoColor=white&style=flat-square)
-![PyTorch](https://img.shields.io/badge/-PyTorch-DE3412?logo=pytorch&logoColor=white&style=flat-square)
-
 #### Platforms and Software
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
 ![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?logo=proxmox&logoColor=white&style=flat-square)
@@ -32,12 +24,9 @@
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white&style=flat-square)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-f1502f?logo=git&logoColor=white&style=flat-square)
-![Snyk](https://img.shields.io/badge/-Snyk-4C4A73?logo=snyk&logoColor=white&style=flat-square)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?logo=raspberrypi&logoColor=white&style=flat-square)
-![Pi-hole](https://img.shields.io/badge/-Pihole-96060C?logo=pihole&logoColor=white&style=flat-square)
 ![Home Assistant](https://img.shields.io/badge/-Home%20Assistant-18BCF2?logo=homeassistant&logoColor=white&style=flat-square)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square)
-![DuckDB](https://img.shields.io/badge/-DuckDB-FFF000?logo=duckdb&logoColor=black&style=flat-square)
 
 #### Social
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white&style=flat-square)](https://leetcode.com/tbeachill/)
