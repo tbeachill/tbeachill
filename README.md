@@ -4,15 +4,15 @@
 
 
 #### Platforms and Software
-![Pop OS](https://img.shields.io/badge/-Pop%20OS-48B9C7?logo=popos&logoColor=white&style=flat-square)
-![Ubuntu Server](https://img.shields.io/badge/-Ubuntu%20Server-E95420?logo=ubuntu&logoColor=white&style=flat-square)
+![Fedora](https://img.shields.io/badge/-Fedora-51A2DA?logo=fedora&logoColor=white&style=flat-square)
+![Fedora CoreOS](https://img.shields.io/badge/-Fedora%20CoreOS-51A2DA?logo=image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI4MDAiIGhlaWdodD0iODAwIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlkWU1pZCIgdmlld0JveD0iMCAwIDI1NiAyNTYiPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGQ9Ik0xMjguMDA4IDBDNTcuNDE4IDAgMCA1Ny40MiAwIDEyOGMwIDcwLjU4NCA1Ny40MTcgMTI4IDEyOC4wMDggMTI4QzE5OC41NzggMjU2IDI1NiAxOTguNTg0IDI1NiAxMjggMjU2IDU3LjQyIDE5OC41NzggMCAxMjguMDA4IDAiLz48cGF0aCBmaWxsPSIjYmFiYWJhIiBkPSJNMTI4LjU3MiAxMS4yNTNjLTIwLjM4NCAwLTM3LjY3MSAzMi42MDQtNDMuOTE1IDc3LjkyLS4yIDEuNDU4LS4zOTMgMi45MzMtLjU2NCA0LjQxOGEyNzUgMjc1IDAgMCAwLTEuNzIgMjIuMTgyIDI2OSAyNjkgMCAwIDAtLjIwNSAxMC42YzAgMy41NzMuMDY4IDcuMTExLjIwNiAxMC41OTcuMjg5IDcuNjMzLjg2NyAxNS4wNTQgMS43MiAyMi4xODYgOS41NTcgMS4yMzcgMTkuNzc3IDIuMDc2IDMwLjQzNiAyLjQ3NSA0LjYwOC4xNzIgOS4yODQuMjc1IDE0LjA0My4yNzUgNC43NDQgMCA5LjQzNS0uMTA0IDE0LjAyOS0uMjc1IDEwLjY3Mi0uMzk5IDIwLjg4NC0xLjIzOCAzMC40NS0yLjQ3NSAxLjA1Mi0uMTM1IDIuMDg4LS4yODIgMy4xMzYtLjQzNCAzOS44MDktNS41OSA2Ny41MDItMTcuOTY1IDY3LjUwMi0zMi4zNDktLjAwMS02My41ODItNTEuNTQ2LTExNS4xMi0xMTUuMTE4LTExNS4xMiIvPjxwYXRoIGZpbGw9IiM5MTkxOTEiIGQ9Ik0xNzYuMTg3IDk0LjAyMmE1OCA1OCAwIDAgMC0zLjcxMy00Ljg0N2MtMTAuNTYyLTEyLjQ1MS0yNi4yOTctMjAuMzYzLTQzLjkwMS0yMC4zNjMtNS43MDcgMC0xMC43OSA4LjczNi0xNC4wNDMgMjIuMzAxLTEuMjkzIDUuNDEtMi4yOTYgMTEuNTgtMi45NDMgMTguMjc5YTE4MSAxODEgMCAwIDAtLjc4NCAxNi45ODFjMCA1LjkwNy4yNzUgMTEuNjE2Ljc4NCAxNi45NzkgNS4zNzEuNTEgMTEuMDcxLjc4MyAxNi45ODYuNzgzIDUuOTA3IDAgMTEuNjA3LS4yNzQgMTYuOTc4LS43ODMgMTEuODA3LTEuMTIgMjItMy4zOSAyOS4yMi02LjM4MiA3LjEzLTIuOTUgMTEuMzUtNi42MjIgMTEuMzUtMTAuNTk3LS4wMDEtMTEuOTkyLTMuNjYzLTIzLjEzLTkuOTM0LTMyLjM1MSIvPjwvc3ZnPg==&logoColor=white&style=flat-square)
 ![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?logo=proxmox&logoColor=white&style=flat-square)
 ![TrueNAS](https://img.shields.io/badge/-TrueNAS-0095D5?logo=truenas&logoColor=white&style=flat-square)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?logo=raspberrypi&logoColor=white&style=flat-square)
 ![UniFi](https://img.shields.io/badge/-UniFi-0559C9?logo=ubiquiti&logoColor=white&style=flat-square)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=white&style=flat-square)
+![Traefik](https://img.shields.io/badge/-Traefik-24A1C1?logo=traefikproxy&logoColor=white&style=flat-square)
 ![Home Assistant](https://img.shields.io/badge/-Home%20Assistant-18BCF2?logo=homeassistant&logoColor=white&style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-1D63ED?logo=docker&logoColor=white&style=flat-square)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-f1502f?logo=git&logoColor=white&style=flat-square)
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white&style=flat-square)
